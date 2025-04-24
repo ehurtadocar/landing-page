@@ -13,7 +13,7 @@
 }
 
 .landing-container {
-    background-color:grey;
+    background-color:rgb(0, 0, 0);
     text-align: center;
     padding: 10px 20px;
 }
@@ -26,7 +26,7 @@
 
 .product-subtitle {
     font-size: small;
-    color: rgb(82, 77, 77);
+    color: rgb(255, 255, 255);
 }
 
 .hero-image {
