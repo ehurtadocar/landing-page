@@ -2,6 +2,7 @@
     background-color: rgb(38, 41, 43);
     padding: 15px 30px
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .navbar a {
@@ -16,6 +17,7 @@
     background-color:rgb(33, 30, 30);
     text-align: center;
     padding: 10px 20px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .header {
@@ -62,4 +64,5 @@
 
 .main-footer:hover {
     color: #fc0;
+    font-family: Arial, Helvetica, sans-serif;
 }
