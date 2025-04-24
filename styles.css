@@ -1,0 +1,62 @@
+.navbar {
+    background-color: rgb(35, 40, 45);
+    padding: 15px 30px
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar a:hover {
+    color: #fc0
+}
+
+.landing-container {
+    background-color:grey;
+    text-align: center;
+    padding: 10px 20px;
+}
+
+.header {
+    font-family: 'Times New Roman', Times, serif;
+    color: pink;
+    padding-bottom: 20px;
+}
+
+.product-subtitle {
+    font-size: small;
+    color: rgb(82, 77, 77);
+}
+
+.hero-image {
+    max-width: 100%;
+    border: black;
+    padding-bottom: 20px;
+}
+
+.hero-text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.5);
+    padding-bottom: 20px;
+}
+
+.product-description {
+    font-size: small;
+    padding-bottom: 20px;
+    color: grey;
+}
+
+.main-footer {
+    background-color: aqua;
+    padding: 15px 30px;
+    text-align: center;
+    color: white;
+}
+
+.main-footer:hover {
+    color: #fc0;
+}
