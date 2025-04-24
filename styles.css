@@ -19,8 +19,8 @@
 }
 
 .header {
-    font-family: 'Times New Roman', Times, serif;
-    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(255, 255, 255);
     padding-bottom: 20px;
 }
 
@@ -47,7 +47,7 @@
 .product-description {
     font-size: small;
     padding-bottom: 20px;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .main-footer {
