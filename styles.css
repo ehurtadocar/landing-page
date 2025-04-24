@@ -47,14 +47,14 @@
 .product-description {
     font-size: small;
     padding-bottom: 20px;
-    color: grey;
+    color: rgb(0, 0, 0);
 }
 
 .main-footer {
-    background-color: rgb(214, 59, 59);
+    background-color: white;
     padding: 15px 30px;
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .main-footer:hover {
